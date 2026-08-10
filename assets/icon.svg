@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="NikeScan">
+  <rect width="64" height="64" rx="14" fill="#100f0d"/>
+  <rect x="12" y="12" width="40" height="40" rx="10" fill="#f6591a"/>
+  <rect x="19" y="22" width="26" height="5" rx="2.5" fill="#100f0d" fill-opacity="0.42"/>
+  <rect x="19" y="33" width="26" height="11" rx="2.5" fill="#ffffff" fill-opacity="0.18"/>
+</svg>
